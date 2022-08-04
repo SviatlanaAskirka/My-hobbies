@@ -1,0 +1,73 @@
+body {
+    background-color: #79A0AB;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Pacifico', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: #fff;
+    margin-top: 0;
+}
+
+h2 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+    text-transform: uppercase;
+    margin-left: 150px;
+}
+
+h3 {
+    font-family: 'Pacifico', sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    margin-right: 150px;
+    text-align: right;
+    margin-bottom: 0;
+}
+
+p {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+
+div.stikers {
+    text-align: center;
+}
+
+div.sertificates {
+    text-align: center;
+}
+
+img.sertificates {
+    margin-right: 90px;
+}
+
+div.video {
+    text-align: center;
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+blockquote {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    font-style: italic;
+    margin-left: 75px;
+    margin-right: 75px;
+}
